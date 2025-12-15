@@ -17,3 +17,4 @@ print(8//3)
 print(12//12)
 print(95%10)
 print(76%11)
+print
